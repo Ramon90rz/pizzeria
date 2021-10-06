@@ -1,0 +1,163 @@
+body, footer
+{
+	background-color: white;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: "helvetica",arial;
+
+}
+header
+{
+	background-color: whitesmoke;
+	text-align: center;
+	border-radius: 10px;
+	padding: 2px;
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 1.0);
+	opacity: 0.8;
+}
+#contenido
+{
+	width:960px;
+	margin:0 auto;
+	text-align: center;
+}
+
+h1
+{
+	font-size: 300%;
+	text-align: center;
+	color:darkorange;
+	font-family: serif;
+}
+h2
+{
+	text-align: center;
+	color:dark;
+	font-family: serif;
+}
+nav ul li
+{
+	display:inline-block;
+	margin-right:20px;
+	color:black;
+	cursor: pointer; 
+	padding: 3px;
+	transition: all 0.3s linear;
+}
+nav ul li a
+{
+	text-decoration: none;
+	color: black;
+
+}
+nav ul li:hover
+{
+	background-color: orangered;
+	color: black;
+	border-radius: 5px;
+	
+}
+#pizzas
+{
+	width: 900px;
+	height: auto;
+	background-color: white;
+	opacity: 0.8;
+	color:  black;
+	margin: 0 auto;
+	text-align: left;
+	border-radius: 20px;
+	padding: 20px;
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 1.0);
+}
+#ofertas
+{
+	width: 900px;
+	height: auto;
+	background-color: white;
+	opacity: 0.8;
+	color:  black;
+	margin: 0 auto;
+	text-align: left;
+	border-radius: 20px;
+	padding: 20px;
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 1.0);
+}
+#paquetes
+{
+	width: 900px;
+	height: auto;
+	background-color: white;
+	opacity: 0.8;
+	color:  black;
+	margin: 0 auto;
+	text-align: left;
+	border-radius: 20px;
+	padding: 20px;
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 1.0);
+}
+
+.logo{
+width: 140px;
+height: 130px;
+margin-right: 0%;
+margin-left: 0%;
+display: block;
+padding: 1px;
+border-radius: 10px;
+float: left;
+
+}
+.perfil2{
+width: 250px;
+height: 150px;
+margin-right: 1%;
+margin-left: 35%;
+display: block;
+padding: 1px;
+border-radius: 10px;
+float: left;
+
+}
+img:hover
+{
+	transform: scale(0.9);
+	transition: all 0.5s linear;
+}
+footer
+{
+
+	text-align: center;
+	font-family: serif;
+	color: black;
+}
+aside
+{
+	color: black;
+	text-align: left;
+	text-align: center;
+
+}
+#separador
+{
+	padding: 15px;
+}
+button
+{
+	color: #0099CC;
+	background: transparent;
+	border-radius: 6px;
+	margin-left: 46%;
+
+}
+button:hover {
+      background-color: #008CBA;
+      color: white;
+ }
+p
+{
+
+	
+}
